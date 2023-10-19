@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Kazai-95
-- 👀 I’m interested in learning and technology
-- 🌱 I’m currently working as a frontend developer
+- 👋 Hi, I’m @Kazai-Isaac
+- 👀 I’m interested in designing and creating new stuff
 - 📫 How to reach me: https://no.linkedin.com/
